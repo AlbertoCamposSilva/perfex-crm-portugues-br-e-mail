@@ -34,7 +34,7 @@ Observaçoes:<br />
 
 <p>PULL-REQUESTS SÃO BEM VINDOS</p>
 
-<p>CORREÇÕES DO TRABALHO DO LUC45:</p>
+<h2>CORREÇÕES DO TRABALHO DO LUC45:</h2>
 
 <p>O SQL agora apenas atualiza a tabela, evitando erros, tornando o código mais seguro.<br />
 
