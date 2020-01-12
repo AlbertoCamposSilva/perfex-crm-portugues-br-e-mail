@@ -12,31 +12,31 @@ Acesse o seu banco de dados do CRM com PHPMyAdmin ou similar.<br />
 Execute o código.<br />
 Acesse seu Perfex -> Configurações -> Modelos de Email e clique em algum para ver se funcionou.</p>
 
-Categorias de Email traduzidos:
-Tickets
-Orçamentos
-Faturas
-Nota de Crédito
-Tarefas
-Clientes
-Projetos
-Leads
+<h2>Categorias de Email traduzidos:</h2>
+Tickets<br />
+Orçamentos<br />
+Faturas<br />
+Nota de Crédito<br />
+Tarefas<br />
+Clientes<br />
+Projetos<br />
+Leads<br />
+<p />
+<h2>Falta traduzir emails relativos à:</h2>
+Contratos<br />
+Assinaturas<br />
+Propostas<br />
+Colaboradores<br />
+Observaçoes:<br />
+"Tickets" são chamados de "Solicitações"<br />
+"Discussões" são chamados de "Conversas"<br />
 
-Falta traduzir emails relativos à:
-Contratos
-Assinaturas
-Propostas
-Colaboradores
-Observaçoes:
-"Tickets" são chamados de "Solicitações"
-"Discussões" são chamados de "Conversas"
 
+<p>PULL-REQUESTS SÃO BEM VINDOS</p>
 
-PULL-REQUESTS SÃO BEM VINDOS
+<p>CORREÇÕES DO TRABALHO DO LUC45:</p>
 
-CORREÇÕES DO TRABALHO DO LUC45:
+<p>O SQL agora apenas atualiza a tabela, evitando erros, tornando o código mais seguro.<br />
 
-O SQL agora apenas atualiza a tabela, evitando erros, tornando o código mais seguro.
-
-Alguns dados pessoais foram retirados.
+Alguns dados pessoais foram retirados.</p>
 
