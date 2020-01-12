@@ -1,16 +1,16 @@
 # perfex-crm-portugues-br-e-mail
-Emails em português para o PERFEX CRM
+<h1>Emails em português para o PERFEX CRM</h1>
 
-Este código foi baseado no trabalho de: https://github.com/Luc45/emails-portugues-perfex-crm
+<p><b>Este código foi baseado no trabalho de: https://github.com/Luc45/emails-portugues-perfex-crm</b:</p>
 
-Instalação:
-Faça um backup do seu banco de dados. SÉRIO!
-Copie e cole o código num bloca de notas.
-Substitua crm.SEUSITE.com.br pelo endereço do seu CRM.
-
-Acesse o seu banco de dados do CRM com PHPMyAdmin ou similar.
-Execute o código.
-Acesse seu Perfex -> Configurações -> Modelos de Email e clique em algum para ver se funcionou.
+<h2>Instalação:</h2>
+<p>Faça um backup do seu banco de dados. SÉRIO!<br />
+Copie e cole o código num bloca de notas.<br />
+Substitua crm.SEUSITE.com.br pelo endereço do seu CRM.<br />
+<br />
+Acesse o seu banco de dados do CRM com PHPMyAdmin ou similar.<br />
+Execute o código.<br />
+Acesse seu Perfex -> Configurações -> Modelos de Email e clique em algum para ver se funcionou.</p>
 
 Categorias de Email traduzidos:
 Tickets
